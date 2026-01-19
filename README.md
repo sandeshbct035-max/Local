@@ -1,1 +1,1 @@
-#This was extracted from ApnaCollege.
+#This is the repo of Python.
